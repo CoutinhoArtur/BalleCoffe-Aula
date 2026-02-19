@@ -1,9 +1,7 @@
 # ☕ BalleCoffee - Landing Page
 
 
-<p align="center">
   <img src="Layout_BalleCoffe_2025.jpg" alt="Preview do Projeto BalleCoffee" width="100%">
-</p>
 
 ## 💻 Sobre o Projeto
 
